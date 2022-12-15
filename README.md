@@ -15,6 +15,8 @@ Sample Statements:
 ## Presentations
 - [Canva](https://www.canva.com/) - Templates, Animations, Resources to create great Presentations
 - [Slides Carnival](https://www.slidescarnival.com/) - Presentation Templates for PowerPoint and Google Slides.
+- [Mentimeter](https://www.mentimeter.com/) If you are going to be making an interactive session (Better avoid in a professional presentation, but you can go for it in a casual presentation)
 
 ## Miscellaneous
-- If resources are to be given, never keep a wikipedia page in them. Wikipedia is never considered as a resource.
+- If resources are to be given, never keep a wikipedia page in them. Wikipedia is never considered as a resource as it can be edited by anyone anytime.
+- [Typefont](https://www.typewolf.com/) - For various fonts.
